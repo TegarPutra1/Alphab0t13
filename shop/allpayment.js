@@ -3,29 +3,30 @@ return `PAYMENT BY ZEEONE OFC
 
 *🏧 BANK*
 
-1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
+1. TRAKTEER 
+	ㅁ https://trakteer.id/TegarPutra
+2. SAWERIA 
+	ㅁ https://saweria.co/TegarGanZ
+3. SOCIABIZZ
+	ㅁ https://sociabuzz.com/tegarganz/tribe
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0831 5464 1127
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ (Coming Soon)
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0831 5464 1127
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama TE*****TRA
 
 *📲 PULSA*
 
-Tidak tersedia
+1. AXIS 
+      ㅁ 0831 5464 1127
+2. SMARTFREN
+      ㅁ (Coming Soon)
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
