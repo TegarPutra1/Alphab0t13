@@ -37,25 +37,25 @@
 
 ```ts
 {
-    "self_mode": false,
-	"autobio": false,
+    "self_mode": true,
+	"autobio": true,
 	"antihidetag": true,
-	"user_register": false,
-	"anti_delete" : false,
-	"anticall": false,
+	"user_register": true,
+	"anti_delete" : true,
+	"anticall": true,
 	"auto_welcome_msg": true,
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfcོ",
-	"ownername": "ZeeoneOfcོ",
-	"botname":"ALPHABOT",
+	"ownerNumber": "6283154641127",
+	"ownerNumberr": "6283154641127",
+	"cr": "@TegarXD",
+	"ownername": "TegarXD",
+	"botname":"CRISTALBOT",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ALPHABOT  」\nCreated By @ZeeoneOfcོ"
+	"fake": " 「  CRISTALBOT  」\nCreated By @TegarXD"
 }
 ```
 
