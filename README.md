@@ -37,25 +37,25 @@
 
 ```ts
 {
-    "self_mode": false,
-	"autobio": false,
+    "self_mode": true,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
-	"anticall": false,
+	"anticall": true,
 	"auto_welcome_msg": true,
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfcོ",
-	"ownername": "ZeeoneOfcོ",
-	"botname":"ALPHABOT",
+	"ownerNumber": "6283154641127",
+	"ownerNumberr": "6283154641127",
+	"cr": "@TegarXD",
+	"ownername": "TegarXD",
+	"botname":"Cristal Bot",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ALPHABOT  」\nCreated By @ZeeoneOfcོ"
+	"fake": " 「  CRISTAL BOT  」\nCreated By @TegarXD"
 }
 ```
 
@@ -82,13 +82,13 @@ Off in web nya
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/TegarGanZ)
 
 ## ```GROUP SUPPORT```
 
-- [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [`Cristalbot 1`](https://chat.whatsapp.com/GHsbpZfHFOvJnyYKTXmBKN)
+- [`Cristalbot 2`](https://chat.whatsapp.com/GTLelnaLdHsGtFQkLzQ9yV)
+- [`Cristalbot 3`](https://chat.whatsapp.com/IHd6j3f40m28rrVZWmru3X)
 
 ## `THANKS TO`
 
