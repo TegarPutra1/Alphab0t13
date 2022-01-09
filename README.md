@@ -26,11 +26,11 @@
 
 ```ts
 {
-   "clientID": "s7wbljmueF974KZ3INGoig==",
-   "serverToken": "1@wrhs27QrJdzbLj70tfaVs7Pmw61qPXoOfHUyjIXLnTlp3JzHmZLPSRA4q2A1YyXokwpqXKfV8M14vw==",
-   "clientToken": "azA7WSUpg7o6ckgikx89PTacIGO95/E2ejcdq3FoCgQ=",
-   "encKey": "RfGDwN4pbkC8U4UC9i8PaOUVisMOSqGkoe2Set7SWH8=",
-   "macKey": "PXBJW3m/fSZ58LPv5WwDbJ9yf2jjm2llMGNHDqfD4gM="
+	"clientID": "JgW+uERvGSHrIhZ0GM+2yg==",
+	"serverToken": "1@k8uHkRStj6SEXmdNS7Pp094vx4Gl97lIJN1MRpwdLM05qg8kuiP7IzFjDgyE0GdjiHHseipp3GBI2g==",
+	"clientToken": "SBLG1P3lrMn8qCG+K+2o8Xnkl3P3KVa0y+/72i5cJCg=",
+	"encKey": "s5OTdzL7QAc5wRi2KvpiyvOD/aGJ8aU853lOB+/uLfg=",
+	"macKey": "MjbF7bs8ABHH9mvA7JNigTIzBcTemfCdWcqW2N2uIkE="
 }
 ```
 ## `SETTING`
